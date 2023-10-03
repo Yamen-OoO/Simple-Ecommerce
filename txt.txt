@@ -1,0 +1,30 @@
+Features and new to use in js :
+1_ fetch (crud)
+2_ catch errors
+3_ sort , filter 
+4_ document js files
+5_ jest the functions 
+6_ make components
+7_ use localStorage to save cart Products
+8_ load more Products
+9_ Aos library
+
+Featues and new to use in css :
+1_ more about flex
+2_ css measure untis
+3_ new ways to write responsive 
+4_ must be responsive
+5_ use bootstrap
+6_ colors variables
+7_ fixed navBar
+8_ nice design for tables
+9_ sideBar , footer , navBar
+10_ caroursel home page imgs
+
+
+other //
+Seo 
+page performace
+js cookies , tokens
+fomrs validations (of the cart to pay )
+loading screen

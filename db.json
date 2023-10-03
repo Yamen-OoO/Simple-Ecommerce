@@ -1,0 +1,463 @@
+{
+    "men": {
+        "tshirts": [
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "colors":["red","blue","green"],
+                "comments":["dddddddddd" , "dffffffffff"],
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            }
+        ],
+        "jeans": [
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            }
+        ],
+        "shoes": [
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            },
+            {
+                "id": 1,
+                "name": "tshirt1",
+                "description": "this is tshirt1",
+                "price": 20,
+                "quantity": 42,
+                "rating": 4,
+                "image": "mentshirt1.jpg",
+                "sales": 0
+            }
+        ],
+        "sales":{}
+    }
+}
